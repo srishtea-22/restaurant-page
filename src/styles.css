@@ -34,6 +34,9 @@ button{
     background-color: black;
     cursor: pointer;
 }
+button:hover {
+    color: gray;
+}
 
 p {
     color: white;
@@ -42,4 +45,9 @@ p {
     text-align: center;
     margin: 2rem 20rem;
     line-height: 35px;
+}
+
+p > ul {
+    display: flex;
+    flex-direction: column;
 }
