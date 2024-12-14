@@ -1,3 +1,4 @@
 import "./styles.css";
+import { loadPage } from "./loadPage";
 
-console.log("it worksss!!!");
+document.addEventListener('DOMContentLoaded', loadPage);

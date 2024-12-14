@@ -16,7 +16,7 @@ header {
 
 header > img {
     height: 100px;
-    margin-left: 6rem;
+    margin-left: 7rem;
 }
 
 ul {
@@ -33,4 +33,13 @@ button{
     color: white;
     background-color: black;
     cursor: pointer;
+}
+
+p {
+    color: white;
+    font-family: var(--font);
+    font-size: 1.25rem;
+    text-align: center;
+    margin: 2rem 20rem;
+    line-height: 35px;
 }
