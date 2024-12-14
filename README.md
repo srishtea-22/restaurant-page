@@ -1,1 +1,1 @@
-restaurant page for webpack practice
+A project to practice Webpack configuration, bundling JavaScript, and handling dynamic content.
